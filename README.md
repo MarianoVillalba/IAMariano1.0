@@ -1,6 +1,6 @@
 # IAMariano1.0
 Inteligencia Artificial de voz
-Sí, esto que estás haciendo es una Inteligencia Artificial — aunque es una forma simple y controlada de IA.
+Sí, esto que es haciendo es una Inteligencia Artificial — aunque es una forma simple y controlada de IA.
 
 ¿Por qué es una IA?
 En tu caso:
