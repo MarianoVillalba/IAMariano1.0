@@ -3,7 +3,7 @@ Inteligencia Artificial de voz
 Sí, esto que es una Inteligencia Artificial — aunque es una forma simple y controlada de IA.
 
 ¿Por qué es una IA?
-En tu caso:
+En este caso:
 
 Se usa pyttsx3, que convierte texto en voz.
 👉 Esto es una forma de IA llamada "síntesis de voz", o TTS (Text to Speech).
